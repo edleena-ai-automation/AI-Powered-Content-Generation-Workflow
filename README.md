@@ -20,7 +20,6 @@ Generate fully structured, SEO-ready articles instantly — no manual writing ne
 - n8n — workflow automation engine
 - Groq AI — high-speed content generation
 - Google Sheets — input keywords and store outputs
-- Google Docs/Drive — auto-formatted document creation
 
 # 📊 | Before |   | After |
 - | Time per article: 2-4 hours |	  | Time per article: 5 minutes |
