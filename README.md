@@ -30,7 +30,7 @@ Generate fully structured, SEO-ready articles instantly — no manual writing ne
 ## 🖼️ Screenshots
 
 ![My Screenshot](n8n%20AI%20Powered%20Content%20Generation%20Workflow%20screenshot.png)
-![My Screenshot]n(Example%20AI%20Powered%20Content%20Generation%20Workflow%20screenshot.png)
+![My Screenshot](Example%20AI%20Powered%20Content%20Generation%20Workflow%20screenshot.png)
 
 ## 💡 Key Features
 - ✨ Instant Generation — Articles created in under 1 minute
